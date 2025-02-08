@@ -17,6 +17,7 @@ guvi#zen
 https://gist.github.com/Rajavasanthan/7f86b8de95293eee94b98f1833023e23
 
 
+
 https://gist.github.com/Rajavasanthan/525af968ce73cd67832c11857b71378c
 
 https://gist.github.com/Rajavasanthan/488fd975abeb27952f4f196d48a1eb8e
@@ -106,6 +107,8 @@ https://brew.sh/
 https://tailwindcss.com/docs/installation
 
 
+
+
 https://gist.github.com/Rajavasanthan/dcc08f136614d884ca7e002dd5db58ae
 
 
@@ -132,3 +135,86 @@ console.log(numbers);
 
 
 https://gist.github.com/Rajavasanthan/06013d004203f0115e90dee6dcecf642
+
+
+
+https://jsfiddle.net/ancbtz6o/
+
+
+https://gist.github.com/Rajavasanthan/97049b9b6a774e2bff9a27e4d6b3de85
+
+
+
+https://gist.github.com/Rajavasanthan/a5bb496bd3468d8d0e9b42324866b56b
+
+
+https://gist.github.com/Rajavasanthan/a5bb496bd3468d8d0e9b42324866b56b
+
+
+https://www.youtube.com/watch?v=N7I0qXt_13Y
+
+
+https://gist.github.com/Rajavasanthan/ec36ec32827f44ce8759fb2aba9f700d
+
+
+https://gist.github.com/Rajavasanthan/7c159a2eaf75a5e464ef3ed78aec1979
+
+
+https://gist.github.com/Rajavasanthan/0b0754729589e511eb4df6a9b3701b3b
+
+
+https://gist.github.com/Rajavasanthan/385f9393708e9ce0e5b704f4cbd3fda9
+
+
+https://claude.ai/
+
+
+https://youtu.be/-tXZ4g2PwGs?si=NJgYjCpCVhCA30BO
+
+https://www.youtube.com/watch?v=DdMIKKBVv5M
+
+npx create-vite@latest
+
+https://gist.github.com/Rajavasanthan/70931a9cbaed0d7544b206527c364d34
+
+
+https://gist.github.com/Rajavasanthan/e40dc7349ab35aefbc67c5dfedf32140
+
+
+https://gist.github.com/Rajavasanthan/f587342b91952407c79d83c8c74ffa9e
+
+
+https://gist.github.com/Rajavasanthan/eeedad2640bb9a0ca0e1cc7b0d86bced
+
+
+
+https://www.youtube.com/watch?v=8pDqJVdNa44
+
+
+https://medium.com/@codesprintpro/javascript-string-immutability-ead81df30693#:~:text=Javascript%20String%20is%20immutable%2C%20which,object%20to%20a%20String%20reference.
+
+https://www.amazon.in/You-Dont-Know-Set-Volumes/dp/9352136268
+
+https://github.com/getify/You-Dont-Know-JS
+
+
+https://medium.com/swlh/understanding-react-redux-and-react-redux-c52d46dd1a04
+npm i react-redux @reduxjs/toolkit tailwindcss postcss autoprefixer @shadc
+n/ui
+https://ui.shadcn.com/docs/installation/vite
+
+
+https://github.com/ManikandanAbirami/vac-redux-guvi.git
+
+https://gist.github.com/Rajavasanthan/e6d00959e0585b0efee83c8469748de1
+
+
+
+
+https://github.com/emmabostian/developer-portfolios
+
+
+https://drive.google.com/file/d/17rWXXWcLxZF93Taknurce03rjLWVie47/view?usp=drive_link
+
+
+https://youtu.be/gB6WLkSrtJk?si=wwfG-67kET2Heo6M
